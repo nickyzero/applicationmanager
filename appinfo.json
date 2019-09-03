@@ -1,0 +1,11 @@
+{
+  "id": "com.sample.closeapp",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "CloseByAppId Sample of Application Manager",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "requiredPermissions" : ["applications.internal"]
+}
